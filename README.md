@@ -1,2 +1,2 @@
 # TSOG
-ARMA 3 Addons for TSOG
+ARMA 3 Addons and scripts for TSOG
